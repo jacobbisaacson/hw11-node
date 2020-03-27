@@ -6,7 +6,7 @@
 ## Your task
 
 Make a module (`Car.js`) that defines a car `class` with both properties and methods as described below, and exports it as a module.
-
+ 
 Then **make an `app.js` or `index.js` file that imports (requires) that module and instantiates your car class and calls its methods.  Console.log stuff to make sure it works**
 
 Specs for the `Car` class:
